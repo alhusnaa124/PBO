@@ -1,0 +1,12 @@
+E:\D3-Teknik Informatika\4\alhusnaa_ti2b\sirema\sirema\bin\Debug\sirema.exe.config
+E:\D3-Teknik Informatika\4\alhusnaa_ti2b\sirema\sirema\bin\Debug\sirema.exe
+E:\D3-Teknik Informatika\4\alhusnaa_ti2b\sirema\sirema\bin\Debug\sirema.pdb
+E:\D3-Teknik Informatika\4\alhusnaa_ti2b\sirema\sirema\bin\Debug\MySql.Data.dll
+E:\D3-Teknik Informatika\4\alhusnaa_ti2b\sirema\sirema\obj\Debug\sirema.csproj.AssemblyReference.cache
+E:\D3-Teknik Informatika\4\alhusnaa_ti2b\sirema\sirema\obj\Debug\sirema.Form1.resources
+E:\D3-Teknik Informatika\4\alhusnaa_ti2b\sirema\sirema\obj\Debug\sirema.Properties.Resources.resources
+E:\D3-Teknik Informatika\4\alhusnaa_ti2b\sirema\sirema\obj\Debug\sirema.csproj.GenerateResource.cache
+E:\D3-Teknik Informatika\4\alhusnaa_ti2b\sirema\sirema\obj\Debug\sirema.csproj.CoreCompileInputs.cache
+E:\D3-Teknik Informatika\4\alhusnaa_ti2b\sirema\sirema\obj\Debug\sirema.csproj.Up2Date
+E:\D3-Teknik Informatika\4\alhusnaa_ti2b\sirema\sirema\obj\Debug\sirema.exe
+E:\D3-Teknik Informatika\4\alhusnaa_ti2b\sirema\sirema\obj\Debug\sirema.pdb
